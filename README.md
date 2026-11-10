@@ -1,16 +1,29 @@
-# My Product Design Portfolio
 
-Senior Product Designer | UX/UI | AI-native Products
+# Judith Monteux
+### Senior Product Designer | UX/UI | AI-native Products
+
+I design digital products and experiences, combining UX strategy, visual design and emerging AI technologies.
 
 ## Portfolio
 
-Visit my portfolio:
-[View Portfolio](AQUI_TU_URL_DE_FRAMER)
+[Visit my Portfolio](https://judmonteux.framer.website/)
 
-## Projects
+## Selected Projects
 
-- Santander
-- Hapzi
-- Fundación Daniel y Nina Carasso
-- AI Financial Copilot (Coming soon)# portfolio
-My Product Design Portfolio
+- Santander — Banking & Investments
+- Hapzi — Investment Experience
+- Fundación Daniel y Nina Carasso — Digital Experience
+- AI Financial Copilot — Coming soon
+
+## Skills
+
+- Product Design
+- UX/UI Design
+- Design Systems
+- Product Strategy
+- AI-native Product Design
+- AI Prototyping
+
+## Contact
+
+Portfolio: https://judmonteux.framer.website/
